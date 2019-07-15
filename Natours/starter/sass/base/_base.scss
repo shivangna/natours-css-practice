@@ -1,0 +1,15 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%; //global definition that defines what 1rem is, that is why it is not in typography.scss
+}
+
+body {
+  box-sizing: border-box;
+}
