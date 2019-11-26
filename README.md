@@ -5,10 +5,6 @@
 - Employed SASS for the project: used global variables, architecting CSS, managing media queries
 - Responsive images in HTML and CSS for faster page loads
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
 fork and clone the folder
