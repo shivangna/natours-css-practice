@@ -1,9 +1,9 @@
 # Advanced CSS Practice
 
-Used a Udemy course to learn more about modern CSS techniques and how CSS works (including concepts like cascade, specificity, inheritance).
-Dived into Flexbox layouts, advanced CSS animations (with keyframes and transitions)
-Employed SASS for the project: used global variables, architecting CSS, managing media queries
-Responsive images in HTML and CSS for faster page loads
+- Used a Udemy course to learn more about modern CSS techniques and how CSS works (including concepts like cascade, specificity, inheritance).
+- Dived into Flexbox layouts, advanced CSS animations (with keyframes and transitions)
+- Employed SASS for the project: used global variables, architecting CSS, managing media queries
+- Responsive images in HTML and CSS for faster page loads
 
 ## Getting Started
 
